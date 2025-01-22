@@ -9,5 +9,6 @@ This project demonstrates a simulated network topology featuring:
 **Key Components**
 - Routing Protocol: RIP (Routing Information Protocol)
 - Switching: VLANs for isolating and managing traffic
+- Firewall: Firewall on routers for security
 - IP Addressing: Gateways assigned to each VLAN
 - Centralized Control: For managing and monitoring network operations
